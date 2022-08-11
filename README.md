@@ -30,7 +30,7 @@ Note que a quantidade de likes deve sempre ser zero no momento de criação.
 
 ## Template da aplicação
 
-![%F0%9F%92%BB%20Sobre%20o%20desafio%202fb59af6a2c74b3dba07c447e71cede5/Untitled.png](%F0%9F%92%BB%20Sobre%20o%20desafio%202fb59af6a2c74b3dba07c447e71cede5/Untitled.png)
+![Untitled.png](Untitled.png)
 
 ## Rotas da aplicação
 
